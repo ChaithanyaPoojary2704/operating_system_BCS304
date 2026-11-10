@@ -9,3 +9,8 @@
 
 ## Program 2b Output
 <img width="1057" height="603" alt="output2b" src="output2b.png" />
+
+<br>
+
+## Program 2c Output
+<img width="1057" height="603" alt="output2c" src="output2c.png" />
