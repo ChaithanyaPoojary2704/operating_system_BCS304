@@ -14,3 +14,10 @@
 
 ## Program 2c Output
 <img width="1057" height="603" alt="output2c" src="output2c.png" />
+
+<br>
+
+## Program 2d Output
+<img width="1057" height="603" alt="output2c" src="output2d.png" />
+
+
