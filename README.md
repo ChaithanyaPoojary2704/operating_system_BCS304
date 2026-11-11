@@ -20,4 +20,10 @@
 ## Program 2d Output
 <img width="1057" height="603" alt="output2c" src="output2d.png" />
 
+<br>
+
+##Program 3 Output
+<img width="1057" height="603" alt="output2c" src="output2d.png" />
+
+
 
