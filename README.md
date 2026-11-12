@@ -1,6 +1,6 @@
 # Operating System BCS304
 
-## Program Output
+## Program Output 1
 ![Program Output Screenshot](Output1.png)
 
 ## Program 2 Output
